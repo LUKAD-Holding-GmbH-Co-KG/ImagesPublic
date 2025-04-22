@@ -1,0 +1,6 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Rettungsdienst
+ORG:Rettungsdienst
+TEL;TYPE=WORK,VOICE:112
+END:VCARD
